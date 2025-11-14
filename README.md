@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Esta é uma aplicação web desenvolvida como parte do desafio técnico da AutoU. A solução utiliza inteligência artificial para analisar o conteúdo de e-mails, classificar o sentimento predominante (ex: alegria, tristeza, raiva) e, com base nessa análise, gerar uma sugestão de resposta. O objetivo é otimizar o tempo e a eficiência na comunicação, fornecendo um rascunho de resposta contextualizado.
+Esta é uma aplicação web desenvolvida para análise de e-mails por meio de inteligência artificial. A solução utiliza IA para analisar o conteúdo de e-mails, classificar o sentimento predominante e sugerir respostas de forma automática.
 
 A interface permite que o usuário insira o texto do e-mail de duas formas: colando o texto diretamente em uma área de input ou fazendo o upload de arquivos nos formatos `.txt` e `.pdf`.
 
