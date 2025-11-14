@@ -1,4 +1,4 @@
-# Desafio AutoU: Analisador de E-mails com IA
+# Analisador de E-mails com IA
 
 ## Descrição do Projeto
 
